@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Yatra_Search_Functionality_Test">
+	<test name="Yatra Search Testcase Automation">
+		<classes>
+			<class name="TestCases.Test_Yatra"/>
+		</classes>
+	</test>
+</suite>
